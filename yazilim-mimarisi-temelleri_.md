@@ -176,6 +176,8 @@ HTTP isteğini karşılar, Service'e iletir, cevabı döner. Hesaplama yapmaz, v
 Sadece veritabanıyla konuşur. Veri çek, kaydet, sil. Başka hiçbir şey.
 
 ## Genel Özet
+
+| Konu | Tek cümlelik özet |
 |---|---|
 | **Monolith** | Tüm kod tek yerde, birlikte deploy edilir |
 | **Microservice** | Her özellik bağımsız bir servis olarak çalışır |
